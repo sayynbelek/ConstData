@@ -1,0 +1,7 @@
+Z:\ConstData\ConstData\bin\Debug\ConstData.exe.config
+Z:\ConstData\ConstData\bin\Debug\ConstData.exe
+Z:\ConstData\ConstData\bin\Debug\ConstData.pdb
+Z:\ConstData\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+Z:\ConstData\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+Z:\ConstData\ConstData\obj\Debug\ConstData.exe
+Z:\ConstData\ConstData\obj\Debug\ConstData.pdb
